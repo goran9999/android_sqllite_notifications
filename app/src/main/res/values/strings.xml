@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zadatak3</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Srpski</item>
+    </string-array>
+
+    <string-array name="fontStyle">
+        <item>bold</item>
+        <item>italic</item>
+        <item>normal</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+    </string-array>
+
+    <string-array name="pol">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+
+</resources>
